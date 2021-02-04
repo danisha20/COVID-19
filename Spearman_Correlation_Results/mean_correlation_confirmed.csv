@@ -1,0 +1,15 @@
+,ID,Absolute Mean
+New log cases,var1,0.84
+maxtempC,var2,0.30
+mintempC,var3,0.31
+uvIndex,var4,0.23
+Humidity,var5,0.30
+precipMM,var6,0.33
+pressure,var7,0.24
+windspeedKmph,var8,0.15
+retail and recreation,var9,0.32
+grocery and pharmacy,var10,0.38
+parks,var11,0.35
+transit stations,var12,0.40
+workplaces,var13,0.21
+residential,var14,0.21
