@@ -56,8 +56,9 @@ When dealing with time series data, traditional cross-validation (like k-fold) s
 
 - Arbitrary Choice of Test Set
 
-https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9
-
-
 In this study, we utilized the hold-out cross-validation by splitting the dataset into a train and validate set. 
 We used 80% for testing and the last 20% of the time-series dates for validating.
+
+### Paper 
+
+Under Review
