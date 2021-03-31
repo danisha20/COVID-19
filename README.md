@@ -10,9 +10,9 @@ Ramon E. Diaz-Ramos
 
 ## Introduction
 
-In this study, we present a linear, polynomial and generalized logistic regression curve fitting model to evaluate the growth of the COVID-19 incidents in Mexico. Additionally, we use machine learning and time-series techniques to identify features importance and perform forecasting for daily cases and fatalities.The data analysis and modeling conducted in this research is based on the publicly available data sets from the Resource Center at John Hopkins University of Medicine. Additional features were added to this dataset as an effort to understand its effects in the number of daily cases: this includes mobility rates obtained from Google's Mobility Reports and climate variables obtained from weather online.
+This study presents the use of machine learning techniques for projecting COVID-19 infections and deaths in Mexico. The methods compared are linear, polynomial, and generalized logistic regression models to describe the growth of COVID-19 incidents in Mexico. Additionally, we use machine learning and time-series techniques to identify features importance and perform forecasting for daily cases and fatalities.The data analysis and modeling conducted in this research is based on the publicly available data sets from the Resource Center at John Hopkins University of Medicine. Additional features were added to this dataset as an effort to understand its effects in the number of daily cases: this includes mobility rates obtained from Google's Mobility Reports and climate variables obtained from weather online.
 
-## Problem Statement
+## Background
 
 As referenced by the World Health Organization, the first case of COVID-19 (also known as 2019 Novel Coronavirus) was confirmed in Wuhan, China on December 31, 2019. Even though the disease is now successfully contained in China, it has spread all over the world. On May 21th there had been over 5,102,424 confirmed cases which resulted in more than 332,924 fatalities around the world. The pandemic is severe and it continues to affect billions of people.
 
